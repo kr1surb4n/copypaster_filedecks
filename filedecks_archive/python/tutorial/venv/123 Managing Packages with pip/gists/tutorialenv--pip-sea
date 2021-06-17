@@ -1,0 +1,8 @@
+# name: (tutorial-env) $ pip 
+(tutorial-env) $ pip search astronomy
+skyfield               - Elegant astronomy for Python
+gary                   - Galactic astronomy and gravitational dynamics.
+novas                  - The United States Naval Observatory NOVAS astronomy library
+astroobs               - Provides astronomy ephemeris to plan telescope observations
+PyAstronomy            - A collection of astronomy related tools for Python.
+...

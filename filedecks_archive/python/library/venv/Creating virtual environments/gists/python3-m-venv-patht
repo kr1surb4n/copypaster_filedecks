@@ -1,0 +1,2 @@
+# name: python3 -m venv /pat 
+python3 -m venv /path/to/new/virtual/environment
